@@ -1,9 +1,9 @@
 [
-  {"region": "AF","regionname": "Africa"},
-  {"region": "AN","regionname": "Antarctica"},
-  {"region": "APJ","regionname": "Asia Pacific Japan"},
-  {"region": "EMEA","regionname": "Europe Middle East Africa"},
-  {"region": "NA","regionname": "North America"},
-  {"region": "OC","regionname": "Oceania"},
+  {"region": "AF","region_name": "Africa"},
+  {"region": "AN","region_name": "Antarctica"},
+  {"region": "APJ","region_name": "Asia Pacific Japan"},
+  {"region": "EMEA","region_name": "Europe Middle East Africa"},
+  {"region": "NA","region_name": "North America"},
+  {"region": "OC","region_name": "Oceania"},
   {"region": "SA","regionname": "South America"}
 ]
