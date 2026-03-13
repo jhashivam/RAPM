@@ -5,5 +5,5 @@
   {"region": "EMEA","region_name": "Europe Middle East Africa"},
   {"region": "NA","region_name": "North America"},
   {"region": "OC","region_name": "Oceania"},
-  {"region": "SA","regionname": "South America"}
+  {"region": "SA","region_name": "South America"}
 ]
